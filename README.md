@@ -65,7 +65,7 @@ public class FruitShop1 {
 			System.out.println(cost);
 		}
 	}
-		
+	System.out.println("");	
 	}
 
 }
